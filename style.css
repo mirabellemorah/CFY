@@ -119,6 +119,7 @@ header nav a {
     padding: 40px;
     align-items: center;
     text-align: center;
+    font-size: 10px;
 }
 
 .credit a {
